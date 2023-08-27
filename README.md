@@ -35,3 +35,5 @@ Project ini mengimplementasikan proses Extract, Transform dan Load (ETL) dari se
 - Memahami beberapa produk AWS yang digunakan dalam proses pembuatan pipeline data.
 - Mengembangkan pipeline ETL menggunakan aws lambda, membuat trigger pada aws lambda agar berjalan secara otomatis. Membuat staging area dengan menggunakan layanan S3, membuat table dan schema menggunakan crawler, serta mengakses database lewat Amazon Athena
 - Mengubah data dari semi-structured (json file) menjadi structured data (tabel).
+
+**Note**: Langkah pengerjaan project dapat di baca di [tautan berikut](https://faizaladdi.notion.site/faizaladdi/ETL-of-Spotify-Top-Global-Song-a6c8dc61e62f48d891354fd9f6be355b).
